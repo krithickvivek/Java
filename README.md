@@ -1,4 +1,4 @@
-# Java Programming Repository
+# Java Programming 
 
 Welcome to the Java Programming repository! This collection is designed to help you build a strong foundation in Java — from basics to advanced concepts, including object-oriented principles.
 
