@@ -1,4 +1,4 @@
-package SetOperations;
+package SetOperations.Intersection;
 
 import java.util.ArrayList;
 public class Intersection {
